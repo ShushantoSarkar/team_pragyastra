@@ -181,8 +181,10 @@ main .site-title h1, h3{
 
 span{
     margin: .3rem;
-    color: white;
+    
 }
+
+
 
 main .site-title .btn{
     margin: 1.8rem;
