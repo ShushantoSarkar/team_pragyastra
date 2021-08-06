@@ -11,7 +11,7 @@ html, body{
 }
 
 *{
-    font-family: 'Merriweather', serif;
+    font-family: sans-serif;
 }
 
 :root{
@@ -329,6 +329,10 @@ main .post-content .post-title a{
 .site-content .pagination .pages{
     background: var(--text-gray);
     color: var(--white);
+}
+
+.post-title p{
+    color: white;
 }
 
 /* -------x-------- Site Content --------x-------*/
